@@ -143,13 +143,6 @@ class Custom_Columns {
         if ($column == 'thumbnail') {
             echo get_the_post_thumbnail($post_id, [50, 50]);
         }
-        // if($has_thumbnail){
-        //     // echo "Yes";
-        //     //display thumbnail
-        //     echo get_the_post_thumbnail($post_id, [50,50]);
-        // }else{
-        //     echo "No";
-        // }
     }
 }
 
