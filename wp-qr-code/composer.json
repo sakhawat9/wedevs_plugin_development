@@ -1,0 +1,17 @@
+{
+    "name": "fixolab/wp-qr-code",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Fixolab\\WpQrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sakhawat9",
+            "email": "sakhawathossain7969@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -11,7 +11,7 @@
             //     _ajax_nonce: nonce,
             //     // n: nonce
             //     // _wpnonce: nonce
-            // }, function (response) {
+            // }, function (response) { 
             //     console.log(response);
             // });
             // return false;

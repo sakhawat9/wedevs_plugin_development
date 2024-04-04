@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Post View Count\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-27 20:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: smart-post-view-count"
+
+#. Description of the plugin
+msgid "Display view count for specific posts."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sakhawat.vercel.app/"
+msgstr ""
+
+#: includes/class-shortcodes.php:21
+msgid "Page Views"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sakhawat Hossain"
+msgstr ""
+
+#. Name of the plugin
+msgid "Smart Post View Count"
+msgstr ""
+
+#: includes/class-shortcodes.php:22
+msgid "Total Views"
+msgstr ""
+
+#: includes/class-manage-view-count-column.php:20
+msgid "Views"
+msgstr ""
