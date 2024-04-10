@@ -96,6 +96,11 @@ class Admin_Page {
                 return;
             }
             update_option('user_name', sanitize_text_field($_POST['user_name']));
+            
+            if(!isset($_POST['user_phone_number']) || empty($_POST['user_phone_number'])){
+                return;
+            }
+            update_option('user_phone_number', sanitize_text_field($_POST['user_phone_number']));
         }
     }
 

@@ -7,6 +7,7 @@ include_once ('header.php');
     <label for="name">Name</label>
     <input type="hidden" name="action" value="save_name">
     <input type="text" name="user_name" placeholder="Enter your name" value="<?php echo esc_attr(get_option('user_name'));?>">
+    <input type="text" name="user_name" placeholder="Enter your name" value="<?php echo esc_attr(get_option('user_name'));?>">
     <input type="submit" value="Submit">
 </form>
 <?php
